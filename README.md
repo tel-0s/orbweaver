@@ -1,0 +1,3 @@
+# orbweaver
+
+Orbweaver is a minimalistic client for interacting with language models via [Arachne](https://github.com/gaspodethemad/arachne), the next-generation implementation of the timeless object of the [Loom of Time](https://generative.ink/loom/toc/), the True Name of the multiversal interface. Orbweaver is intended to demonstrate one use case for a tapestry client and will evolve alongside Arachne as an interface to generate text using language models. Eventually, Orbweaver will be extended to serve as a multi-user interface to Arachne using the upcoming Multiloom library.

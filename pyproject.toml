@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "orbweaver"
+version = "0.1.0"
+description = "Minimalistic client for the Loom of Time, powered by Arachne"
+authors = ["gaspodethemad <gaspode@lacuna.observer>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+arachne = { git = "https://github.com/gaspodethemad/arachne", branch = "rewrite-202401" }
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
